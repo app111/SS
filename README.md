@@ -1,6 +1,6 @@
 # SS
 a practice for iOS reverse engineering with which you can check-in remotely(wherever you want) in Sine Pro.
-![image](https://github.com/Yesi-hoang/TaoBaoTopLine/blob/master/Gif/TaoBaoTopLineGif.gif)
+![image](https://github.com/iOS-mamu/SS/blob/master/SIne-Pro.gif)
 
 something I learn from disassemly code:
 
